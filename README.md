@@ -308,9 +308,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
+**Your Name** - [@Mohammad Bilal](https://www.linkedin.com/in/mohammad-bilal-b98a42105/)
 
-Project Link: [https://github.com/yourusername/secure-ledger](https://github.com/yourusername/secure-ledger)
+Project Link: [https://github.com/Mohammad007/offline_khatabook_app](https://github.com/Mohammad007/offline_khatabook_app)
 
 ---
 
