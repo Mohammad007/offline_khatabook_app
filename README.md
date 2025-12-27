@@ -13,7 +13,7 @@
   <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" alt="Dart"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/github/stars/yourusername/secure-ledger?style=social" alt="Stars"></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/Mohammad007/offline_khatabook_app?style=social" alt="Stars"></a>
 </p>
 
 <p align="center">
